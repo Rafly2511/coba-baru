@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestDataDriven</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>3d280dea-0016-4d77-961b-466db5590ffb</testSuiteGuid>
+   <testCaseLink>
+      <guid>4c67658e-6626-4553-a8b1-1dfc321577d0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DataDrivenTest/DataDrivenTest</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7bc9deb9-a1fd-41a2-b427-c1e079506517</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/User Test Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>7bc9deb9-a1fd-41a2-b427-c1e079506517</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>fda55af7-c846-4822-9b28-4e57f83f9f2b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7bc9deb9-a1fd-41a2-b427-c1e079506517</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>142b44a2-e26d-4328-b556-fb4c1c4e4a7b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

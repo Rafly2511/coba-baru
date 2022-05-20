@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login_bl-overlay__scrim</name>
+   <tag></tag>
+   <elementGuidId>471e7b01-993b-4054-aea6-61dfcdd1842a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bl-overlay__scrim</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[6]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b58da75e-9dfa-4ec1-b58f-b68a5fe7bfa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-overlay__scrim</value>
+      <webElementGuid>e6888bad-b2bc-43f4-9d0f-12b52c71e43a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;container&quot;]/div[@class=&quot;ph-24 bl-card has-elevation-1 bl-card--outlined&quot;]/section[1]/div[@class=&quot;bl-overlay&quot;]/div[@class=&quot;bl-overlay__scrim&quot;]</value>
+      <webElementGuid>9baab85e-eb4f-4476-9d23-7ffff3f5d250</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div</value>
+      <webElementGuid>e79d8a16-899c-419f-9d3c-4de0a2ce558c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

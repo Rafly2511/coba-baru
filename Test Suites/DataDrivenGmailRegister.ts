@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DataDrivenGmailRegister</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>63cbf3d8-cec0-4b27-accf-9dc42bbd8026</testSuiteGuid>
+   <testCaseLink>
+      <guid>087cf4a7-35e4-4441-a16e-78e755d3163e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DataDrivenGmail/GmailRegister</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0973ace4-97f0-4033-9693-aa1f18c7032a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/GmailRegister</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>0973ace4-97f0-4033-9693-aa1f18c7032a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>namaDepan</value>
+         <variableId>b167c473-5283-44c1-bded-377395d52516</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0973ace4-97f0-4033-9693-aa1f18c7032a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>namaBelakang</value>
+         <variableId>780514ac-f396-4571-b3b7-b609b0913a9d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0973ace4-97f0-4033-9693-aa1f18c7032a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>namaPengguna</value>
+         <variableId>38e6d30c-374f-43a3-8167-aa2e1b87ed3e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0973ace4-97f0-4033-9693-aa1f18c7032a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>sandi</value>
+         <variableId>451b9ac2-effa-4d71-a249-d48a74d0d9fa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0973ace4-97f0-4033-9693-aa1f18c7032a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>konfirmasi</value>
+         <variableId>5b974bff-ac89-47b6-806c-4762c9414001</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

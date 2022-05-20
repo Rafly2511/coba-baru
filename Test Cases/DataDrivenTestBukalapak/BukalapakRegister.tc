@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BukalapakRegister</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>beff1dee-766f-40a6-a4d1-f0a2274f1052</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1d05bc3a-1f60-493f-8f17-49c9fe8c827e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1d05bc3a-1f60-493f-8f17-49c9fe8c827e</id>
+      <masked>false</masked>
+      <name>noHP</name>
+   </variable>
+</TestCaseEntity>
